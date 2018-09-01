@@ -145,3 +145,5 @@ export function createContext<T>(
     >
   };
 }
+
+export default createContext;
